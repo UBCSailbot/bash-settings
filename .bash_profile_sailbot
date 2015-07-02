@@ -1,4 +1,4 @@
 export CLICOLOR=1
 export LSCOLORS=cxfxcxdxbxegedabagcxcx
-export PS1="\[\e[1;32m\]\W\[\e[m \e[1;34m\]λ\[\e[m\] "
+export PS1="\[\e[1;32m\]\W\[\e[m\] \[\e[1;34m\]λ\[\e[m\] "
 
